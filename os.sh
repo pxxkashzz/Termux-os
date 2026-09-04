@@ -44,10 +44,10 @@ banner() {
     echo -e "                                      "
     echo -e "${W}      --[ ${G}Termux Optimization Tool ${W}]--       "
     echo -e ""
-    echo -e "${R} [!]${W} Author  : ${C}Raj Aryan (H4Ck3R0)"
-    echo -e "${R} [!]${W} Version : ${Y}v3.5 (Stable)"
-    echo -e "${R} [!]${W} Youtube : ${W}youtube.com/h4ck3r0"
-    echo -e "${R} [!]${W} GitHub  : ${W}github.com/H4Ck3R0"
+    echo -e "${R} [!]${W} Author  : ${C}pxxkashzzz (Hacrrr)"
+    echo -e "${R} [!]${W} Version : ${Y}v4.5 (Stable)"
+    echo -e "${R} [!]${W} Youtube : ${W}youtube.com/Anime Veriyan YT"
+    echo -e "${R} [!]${W} GitHub  : ${W}github.com/vjpxxkashzz-creater"
     echo -e ""
     echo -e "${G} ==============================================${N}"
     echo -e ""
@@ -183,9 +183,9 @@ do_customize_prompts_menu() {
     read banner_text
     [ -z "$banner_text" ] && banner_text="Termux-OS"
     
-    echo -ne "${left_pad}${Y}[?]${W} Enter Shell Username (Default: H4ck3r): ${RS}"
+    echo -ne "${left_pad}${Y}[?]${W} Enter Shell Username (Default: Hacrrr): ${RS}"
     read username
-    [ -z "$username" ] && username="H4ck3r"
+    [ -z "$username" ] && username="Hacrrr"
     
     banner
     printf "\n${left_pad}${C}───[${W} Select FIGlet Font Style ${C}]───"
@@ -236,7 +236,7 @@ do_customize_prompts_menu() {
         3) prompt_sym="⚡" ;;
         4) prompt_sym="🚀" ;;
         5) prompt_sym="💀" ;;
-        6) prompt_sym="🔥" ;;
+        6) prompt_sym="😈" ;;
         7) prompt_sym="👾" ;;
     esac
     
