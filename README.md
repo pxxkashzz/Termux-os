@@ -1,4 +1,4 @@
-<p align="center">
+6<p align="center">
   <img src="https://user-images.githubusercontent.com/46929618/150730092-337cd5de-f376-454a-9418-c884bdb5f5e0.png" width="900">
 </p>
 <p align="center">
@@ -243,23 +243,23 @@ bash os.sh
 
 * Oh My Zsh
 * Fish Shell Community
-* Raj Aryan (H4CK3R)
+* Pxxkashzz (Hacrrr)
 
 ---
 
 ## Connect
 
 <p>
-<a href="https://github.com/h4ck3r0">
-<img src="https://img.shields.io/badge/GitHub-H4CK3R-green?style=for-the-badge&logo=github">
+<a href="https://github.com/pxxkashzz">
+<img src="https://img.shields.io/badge/GitHub-Hacrrr-green?style=for-the-badge&logo=github">
 </a>
 <a href="https://www.h4ck3r.me">
 <img src="https://img.shields.io/badge/Website-Visit-yellow?style=for-the-badge">
 </a>
-<a href="https://t.me/h4ck3r_group">
+<a href="https://t.me/hacrrr_group">
 <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram">
 </a>
 <a href="https://rebrand.ly/7elzgww">
-<img src="https://img.shields.io/badge/YouTube-H4CK3R-red?style=for-the-badge&logo=youtube">
+<img src="https://img.shields.io/badge/YouTube-Hacrrr-red?style=for-the-badge&logo=youtube">
 </a>
 </p>
