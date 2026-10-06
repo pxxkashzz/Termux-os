@@ -1,0 +1,36 @@
+#!/usr/bin/env fish
+
+set fish_greeting
+set -gx CLICOLOR 1
+set -gx CLICOLOR_FORCE 1
+
+functions --erase ls
+functions --erase cat
+functions --erase ll
+alias l='eza -la'
+alias ls='command ls'
+alias cat='command cat'
+alias ll='eza -l'
+
+function fish_prompt
+    echo
+    set_color cyan
+    printf "\u250c\u2500["
+    set_color green
+    echo -n (whoami)
+    set_color cyan
+    echo -n "@"
+    set_color yellow
+    echo -n (hostname)
+    set_color cyan
+    printf "]\u2500["
+    set_color magenta
+    echo -n (prompt_pwd)
+    set_color cyan
+    echo -n "]"
+    echo
+    printf "\u2514\u2500> "
+    set_color normal
+end
+
+set -gx fish_history max
